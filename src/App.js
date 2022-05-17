@@ -6,7 +6,6 @@ import AppControls from "./components/Complex_Components/AppControls";
 import TopBar from "./components/Containers/TopBar";
 import AppDrawer from "./components/Containers/AppDrawer";
 import SortVisualizer from "./components/Containers/SortVisualizer";
-// import Footer from './components/Complex_Components/Footer';
 
 import BubbleSort, {
   BubbleSortKey,
